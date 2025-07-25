@@ -1,0 +1,11 @@
+[user]
+	name = gman
+	email = omar5mahmoud3ahmed6@gmail.com
+
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+	askPass = false
+[credential]
+	username = null-gman
