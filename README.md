@@ -6,4 +6,6 @@ System location : `~/.bashrc`
 - `ln .bashrc ~/.bashrc -s` : for soft link
 For more info learn bash my friend and read the file .
 
+## kitty.conf
+System location : `~/.config/kitty/kitty.conf`
 
