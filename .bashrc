@@ -2,9 +2,13 @@
 
 #alias
 
-alias sudo='sudo '
+alias sudo="sudo"
 alias vim="nvim"
+
+alias work="cd ~/Work"
+alias workg="cd ~/Work/playground"
 #bash prompet 
+
 PS1="\n$USER \w\n$ "
 
 #PATH
