@@ -2,9 +2,10 @@
 
 #alias
 
-alias sudo="sudo"
-alias vim="nvim"
+alias sudo="sudo "
 
+alias vim="nvim"
+alias e="exit"
 alias work="cd ~/Work"
 alias workg="cd ~/Work/playground"
 #bash prompet 
