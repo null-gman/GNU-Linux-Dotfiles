@@ -17,6 +17,7 @@ PATH=$PATH:~/bin:/home/gman/Downloads/Programs/docker-28.3.2/docker:/home/gman/n
 
 
 # functions
+# if dir exist, cd to it ,else create it then cd it .
 cdm(){
 	dir=$1
 	if [ -d  $dir ];then
