@@ -2,8 +2,9 @@
 
 #alias
 
-alias sudo="sudo "
 
+alias sudo="sudo "
+alias neofetch="fastfetch" #i used to be a Debian user ,and i'am missing it.
 alias vim="nvim"
 alias e="exit"
 alias work="cd ~/Work"
