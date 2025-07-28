@@ -1,7 +1,10 @@
 #Start Up
-
+    export EDITOR='nvim'
+    export VISUAL='nvim'
 #alias
+
 alias sudo="sudo " #to make sudo work with alias
+
 alias neofetch="fastfetch" #i used to be a Debian user ,and i'am missing it.
 alias vim="nvim"
 alias e="exit"
