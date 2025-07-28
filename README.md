@@ -7,3 +7,5 @@ System location : `~/.bashrc`
 System location : `~/.config/kitty/kitty.conf`
 ## .gitconfig
 System location : `~/.gitconfig`
+## gnome-extensions.list
+Gnome extensions i use on GNOME DE.
