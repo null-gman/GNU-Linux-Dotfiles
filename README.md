@@ -9,3 +9,5 @@ System location : `~/.config/kitty/kitty.conf`
 System location : `~/.gitconfig`
 ## gnome-extensions.list
 Gnome extensions i use on GNOME DE.
+## zed
+Zed settings.json file
