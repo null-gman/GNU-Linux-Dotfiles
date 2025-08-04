@@ -16,7 +16,7 @@ alias off="sudo poweroff"
 PS1="\n\e[1;91m$USER \w\e[0m\n$ "
 
 #PATH
-PATH=$PATH:~/bin:/home/gman/Downloads/Programs/docker-28.3.2/docker:/home/gman/npm-global/bin
+PATH=$PATH:~/bin:~/bin/Services/docker-28.3.2/docker:~/npm-global/bin
 
 
 
