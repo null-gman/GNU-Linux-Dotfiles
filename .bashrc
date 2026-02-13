@@ -1,6 +1,8 @@
 #Start Up
     export EDITOR='nvim'
     export VISUAL='nvim'
+    fastfetch
+    lsblk -l -f
 #alias
 
 alias sudo="sudo " #to make sudo work with alias
@@ -8,15 +10,14 @@ alias sudo="sudo " #to make sudo work with alias
 alias neofetch="fastfetch" #i used to be a Debian user ,and i'am missing it.
 alias vim="nvim"
 alias e="exit"
-alias work="cd ~/Work"
-alias workg="cd ~/Work/playground"
+alias work="cd ~/work"
 alias off="sudo poweroff"
 #bash prompet 
 
 PS1="\n\e[1;91m$USER \w\e[0m\n$ "
 
 #PATH
-PATH=$PATH:~/bin:~/bin/Services/docker-28.3.2/docker:~/npm-global/bin
+#PATH=$PATH:~/bin:~/bin/Services/docker-28.3.2/docker:~/npm-global/bin
 
 
 
