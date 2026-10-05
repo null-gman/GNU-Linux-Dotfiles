@@ -9,6 +9,7 @@
    # df /  /SharedDisk/ -h;
    duf --only local;
 
+
 #alias
 alias sudo="sudo " #to make sudo work with alias
 alias refresh="exec bash; clear"
@@ -38,4 +39,5 @@ cdm(){
 		cd $dir 
 	fi
 }
-
+#Notes
+- I like Bash
