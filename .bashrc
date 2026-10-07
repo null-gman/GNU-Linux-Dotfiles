@@ -5,7 +5,6 @@
     VISUAL=/usr/bin/vim"
     fastfetch;
     #lsblk -f -T -a;
-    echo -----GOD JOB------
    # df /  /SharedDisk/ -h;
    duf --only local;
 
@@ -40,4 +39,4 @@ cdm(){
 	fi
 }
 #Notes
-- I like Bash
+#- I like Bash
