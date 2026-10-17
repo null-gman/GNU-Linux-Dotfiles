@@ -1,11 +1,10 @@
 [user]
 	name = gman
-	email = email 
+	email = email
 
 [init]
 	defaultBranch = main
+
 [core]
-	editor = nvim
+	editor = vim
 	askPass = false
-[credential]
-	username = null-gman
