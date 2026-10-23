@@ -8,6 +8,9 @@
    # df /  /SharedDisk/ -h;
    duf --only local;
 
+   echo "Last Login"
+   lastlog2 |tail  -2
+
 
 #alias
 alias sudo="sudo " #to make sudo work with alias
