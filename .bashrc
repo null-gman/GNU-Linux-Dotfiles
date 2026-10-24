@@ -1,4 +1,5 @@
 #Start Up	
+    force_color_prompt=yes
     export EDITOR="vim"
     EDITOR=/usr/bin/vim
     export VISUAL="vim
@@ -18,9 +19,11 @@ alias refresh="exec bash"
 alias neofetch="fastfetch" #i used to be a Debian user ,and i'am missing it.
 alias e="exit"
 alias off="sudo poweroff"
-
+alias reset="exec bash"
+alias ls='ls --color=auto '
+alias vibash="vim ~/.bashrc"
 #bash prompet 
-PS1='\n\e[1;96m~ $USER@$PWD\n$?$\e[0m  '
+PS1='\n\[\e[1;96m\]$USER@$PWD[$HOSTNAME-$? $(date +%c)]\n$ \[\e[0m\]'
 
 #PATH
 
