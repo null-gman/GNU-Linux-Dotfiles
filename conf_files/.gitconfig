@@ -1,0 +1,10 @@
+[user]
+	name = gman
+	email = email
+
+[init]
+	defaultBranch = main
+
+[core]
+	editor = vim
+	askPass = false
