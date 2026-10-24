@@ -1,13 +1,17 @@
 # I think Linux users love Dotfiles .
-In this repo  store my dotfile(config) for my programes e.g bash kitty and more .
+In this repo  store my dotfile(config) for my programe and servers such as:
+- copyparty.py
+- bash
+- ssh
+- git
 
-## .bashrc
-System location : `~/.bashrc`
-## kitty.conf
-System location : `~/.config/kitty/kitty.conf`
-## .gitconfig
-System location : `~/.gitconfig`
-## gnome-extensions.list
-Gnome extensions i use on GNOME DE.
-## zed
-Zed settings.json file
+# Config Files And There Location
+- .bashrc : `~/.bashrc`
+- kitty.cof : `~/.config/kitty/kitty.conf`
+- .gitconfig : `~/.gitconfig`
+
+# Notes
+- "*.cli" : means it's a command line argument configuration
+
+
+

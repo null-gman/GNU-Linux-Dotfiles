@@ -45,3 +45,5 @@ cdm(){
 }
 #Notes
 #- I like Bash
+
+source /home/omar/.config/broot/launcher/bash/br
