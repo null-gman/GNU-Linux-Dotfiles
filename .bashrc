@@ -24,6 +24,7 @@ alias ls='ls --color=auto '
 alias vibash="vim ~/.bashrc"
 #bash prompet 
 PS1='\n\[\e[1;96m\]$USER@$PWD[$HOSTNAME-$? $(date +%c)]\n$ \[\e[0m\]'
+PS1='\n\[\e[1;96m\][$?]$HOSTNAME@$PWD$(date +%c)\n$USER$ \[\e[0m\]'
 
 #PATH
 
