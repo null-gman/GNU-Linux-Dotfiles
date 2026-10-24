@@ -1,0 +1,26 @@
+#Base
+base
+linux
+linux-firmware
+efibootmgr
+grub
+#System Managment
+less
+grep
+vim
+fastfetch
+rsync
+htop
+#Network
+networkmanager
+openssh
+curl
+#Disk Managment
+hdparm
+badblocks
+fdisk
+duf
+
+
+
+
