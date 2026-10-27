@@ -1,0 +1,1 @@
+python copyparty-sfx.py -p <port> -a <user>:<password>  -v <path>:<v_path>:r:rw,<user>;
